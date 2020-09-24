@@ -1,7 +1,7 @@
 class Song 
   @@album_count = 0 
  
-  def initialize
+  def initialize(name, artist, genre)
     @@album_count += 1
   end
  
