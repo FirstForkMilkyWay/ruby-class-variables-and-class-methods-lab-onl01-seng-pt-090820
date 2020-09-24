@@ -33,6 +33,7 @@ class Song
     @@genres.each do |key|
       puts key
     binding.pry 
+  end
    end
   
 end
