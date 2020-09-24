@@ -37,5 +37,4 @@ class Song
         hash[key] = 1
     end
   end
-  
-end
+  end
